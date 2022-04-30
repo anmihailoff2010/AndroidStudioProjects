@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bluetooth Monitor</string>
+    <string name="connect">Подключиться</string>
+    <string name="list">Bt Лист</string>
+    <string name="send_a">Send A</string>
+    <string name="send_b">Send B</string>
+</resources>

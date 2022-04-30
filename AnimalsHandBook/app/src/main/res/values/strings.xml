@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnimalsHandBook</string>
+    <string name="next_image">Next Image</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="done">Done</string>
+</resources>

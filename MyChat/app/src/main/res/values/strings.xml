@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyChat</string>
+    <string name="b_send">Отправить</string>
+    <string name="hint">Сообщение</string>
+    <string name="sign_in">Войти по аккаунту Google</string>
+    <string name="sign_out">Выйти из аккаунта</string>
+</resources>

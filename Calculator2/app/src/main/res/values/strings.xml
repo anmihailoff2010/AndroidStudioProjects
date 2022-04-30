@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="history">История</string>
+
+    <string name="oneText">1</string>
+    <string name="twoText">2</string>
+    <string name="threeText">3</string>
+    <string name="fourText">4</string>
+    <string name="fiveText">5</string>
+    <string name="sixText">6</string>
+    <string name="sevenText">7</string>
+    <string name="eightText">8</string>
+    <string name="nineText">9</string>
+    <string name="zeroText">0</string>
+
+    <string name="clearText">C</string>
+    <string name="parenthesesOpenText">(</string>
+    <string name="parenthesesCloseText">)</string>
+    <string name="divideText">÷</string>
+    <string name="multiplyText">×</string>
+    <string name="addText">+</string>
+    <string name="subtractText">-</string>
+    <string name="decimalText">.</string>
+    <string name="equalsText">=</string>
+    <string name="persent">%</string>
+    <string name="plusMinus">+/-</string>
+
+    <string name="trigSinText">sin</string>
+    <string name="trigCosText">cos</string>
+    <string name="trigTanText">tan</string>
+    <string name="factorial">x!</string>
+    <string name="DegRan">Deg</string>
+    <string name="naturalLogText">ln</string>
+    <string name="LogText">log</string>
+    <string name="squareRootText">√</string>
+    <string name="yRootText"><sup><small>y</small></sup>√x</string>
+    <string name="absoluteValueText">|x|</string>
+    <string name="piText">π</string>
+    <string name="eText">e</string>
+    <string name="xSquaredText">x<sup><small>2</small></sup></string>
+    <string name="xCubedText">x<sup><small>3</small></sup></string>
+    <string name="xPowerYText">x<sup><small>y</small></sup></string>
+    <string name="BTN1delX">1/x</string>
+    <string name="BTN_MS">MS</string>
+    <string name="BTN_MR">MR</string>
+    <string name="BTN_MC">MC</string>
+    <string name="BTN_Mplus">M+</string>
+    <string name="BTN_Mminus">M-</string>
+
+    <string name="backspace"> </string>
+</resources>

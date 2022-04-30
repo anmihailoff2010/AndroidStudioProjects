@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="universal_array">
+        <item>Стратегия противоход</item>
+        <item>Стратегия танковой атаки</item>
+        <item>Стратегия "Зигзаг"</item>
+    </string-array>
+    <string-array name="football_array">
+        <item>Ставки на ничью в футболе</item>
+        <item>Стратегия 27 экспрессов</item>
+        <item>Популярные стратегии ставок на футбол</item>
+    </string-array>
+    <string-array name="hockey_array">
+        <item>Стратегии ставок на тотал в хоккее:лесенка,догон и гол на последней минуте</item>
+        <item>Стратегия ставок на периоды в хоккее</item>
+        <item>Ставки на удаления в хоккее</item>
+    </string-array>
+    <string-array name="auto_array">
+        <item>Страегия ставок на Формулу-1</item>
+        <item>Ставки на Ралли Дакар</item>
+        <item>Ставки на Наскар в гонках</item>
+    </string-array>
+    <string-array name="main_text_size_array">
+        <item>Большой</item>
+        <item>Средний</item>
+        <item>Маленький</item>
+    </string-array>
+</resources>

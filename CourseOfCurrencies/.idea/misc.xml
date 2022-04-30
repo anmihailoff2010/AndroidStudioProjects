@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2145" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/drawable-v24/rectangle.xml" value="0.3635" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/drawable/customborder.xml" value="0.1795" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.1" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2145" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/layout-land/converter.xml" value="0.490625" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/layout-land/currency.xml" value="0.33" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/layout-land/cuttency.xml" value="1.0357142857142858" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/layout-land/valute_item.xml" value="0.6270270270270271" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/layout/converter.xml" value="0.33" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/layout/currency.xml" value="0.33" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/layout/currency_item.xml" value="0.33" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/layout/currency_row.xml" value="0.1" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/layout/fragment_convert_currency.xml" value="0.33" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/layout/fragment_list_currency.xml" value="0.1" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/layout/fragment_page.xml" value="0.1" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/layout/from_spinner.xml" value="0.1" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/layout/tab_layout.xml" value="0.1" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/layout/to_spinner.xml" value="0.1" />
+        <entry key="..\:/Users/anmih/AndroidStudioProjects/CourseOfCurrencies/app/src/main/res/layout/valute_item.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_universal"
+            android:icon="@drawable/ic_bs0"
+            android:title="@string/universal" />
+        <item
+            android:id="@+id/id_football"
+            android:icon="@drawable/ic_bs1"
+            android:title="@string/football" />
+        <item
+            android:id="@+id/id_hockey"
+            android:icon="@drawable/ic_bs2"
+            android:title="@string/hockey" />
+        <item
+            android:id="@+id/id_auto"
+            android:icon="@drawable/ic_bs3"
+            android:title="@string/auto" />
+    </group>
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Brain Traning</string>
+    <string name="truth">Верно</string>
+    <string name="untruth">Не верно</string>
+    <string name="start">Start</string>
+    <string name="title">Ваш результат:</string>
+    <string name="back">Назад</string>
+</resources>
